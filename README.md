@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rushi Patel.
+- 👀 I’m interested in solving problems.
+- 🌱 I’m currently learning Web Development
